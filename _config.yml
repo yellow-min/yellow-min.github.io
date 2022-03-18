@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jaeyun Song"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : &name "Jaeyun Song"
+description              : &description "Ph.D. Student at KAIST"
 url                      : "https://jaeyun-song.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Jaeyun-Song/jaeyun-song.github.io"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaeyun Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
+  location         : "Daejeon, South Korea"
+  email            : "mercery@kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
