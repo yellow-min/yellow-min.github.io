@@ -27,7 +27,7 @@ My research interest includes:
 ## Conference Publications
 - **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification** \\
 <a href="https://openreview.net/forum?id=MXEl7i-iru" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Joonhyung Park\*, <u>Jaeyun Song\*</u>, Eunho Yang (\*: equal contribution) \\
+Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2022
 
 - **Learning How Long to Wait: Adaptively-Constrained Monotonic Multihead Attention for Streaming ASR** \\
