@@ -18,14 +18,11 @@ My research interest includes:
 
 
 ## Education
-- **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2021 - Present
+- **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2019 - Feb. 2021 
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2019 - Feb. 2021</font> 
 
-- **B.S.** in Mathematics, <a href="https://www.postech.ac.kr/eng/" style="color: #000; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a> \\
-Mar. 2012 - Feb. 2019
+- **B.S.** in Mathematics, <a href="https://www.postech.ac.kr/eng/" style="color: #000; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a>, <font size="3">Mar. 2012 - Feb. 2019</font>
 
 
 ## Conference Publications
