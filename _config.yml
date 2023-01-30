@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "SungYub Kim"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D student at Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : "Ph.D student at GSAI, KAIST."
   location         : "Daejeon, South Korea"
   links:
     - label: "Email"
@@ -118,7 +118,7 @@ author:
       url: "https://www.linkedin.com/in/sungyub-kim-0a82a1264/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://sungyubkim.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/SungyubK"

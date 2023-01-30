@@ -8,50 +8,62 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
+I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
-- Generalization of Deep Learning via Loss Landscape
-- Bayesian Deep Learning
-- Post-hoc analysis of pre-traiend models
+- Post-hoc analysis & applications of pre-traiend models
+- Generalization of deep learning via the lens of loss landscape
+- Bayesian deep learning (especially, Laplace Approximation)
 
 
 ## Education
-- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2019 - Present</font> 
+- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**KAIST**</a>\\
+*Mar. 2019 - Present*
   
-- **M.S.** in Mathematical Optimization, <a href="http://polytope.snu.ac.kr/" style="color: #000; text-decoration: none;">**Seoul National University (SNU)**</a>, <font size="3">Mar. 2017 - Feb. 2019</font> 
+- **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**SNU**</a>\\
+*Mar. 2017 - Feb. 2019*
 
-- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/" style="color: #000; text-decoration: none;">**Seoul National University (SNU)**</a>, <font size="3">Mar. 2013 - Feb. 2017</font>
-
-
-## Conference Publications
-- **TAM: Topology-Aware Margin Loss for Class-Imbalanced Node Classification** \\
-<u>Jaeyun Song</u>\*, Joonhyung Park\*, Eunho Yang (\*: equal contribution) \\
-<span style="color:darkred">**ICML**</span> 2022
-
-- **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification** \\
-<a href="https://openreview.net/forum?id=MXEl7i-iru" style="color: #000; text-decoration: none;">[paper]</a> \\
-Joonhyung Park\*, <u>Jaeyun Song</u>\*, Eunho Yang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2022
-
-- **Learning How Long to Wait: Adaptively-Constrained Monotonic Multihead Attention for Streaming ASR** \\
-<a href="https://ieeexplore.ieee.org/abstract/document/9688138" style="color: #000; text-decoration: none;">[paper]</a> \\
-<u>Jaeyun Song</u>, Hajin Shim, Eunho Yang \\
-<span style="color:darkred">**ASRU**</span> 2021
-
-- **Mutually-Constrained Monotonic Multihead Attention for Online ASR** \\
-<a href="https://ieeexplore.ieee.org/abstract/document/9413862" style="color: #000; text-decoration: none;">[paper]</a> \\
-<u>Jaeyun Song</u>, Hajin Shim, Eunho Yang \\
-<span style="color:darkred">**ICASSP**</span> 2021 
+- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/">**SNU**</a>\\
+*Mar. 2013 - Feb. 2017*
 
 
-## Work Experiences
-- Intern, <a href="https://www.skhynix.com/" style="color: #000; text-decoration: none;">**SK Hynix**</a>, Icheon, South Korea (Dec 2018 - Feb 2019)
-- Research Intern, <a href="http://ailab.kaist.ac.kr/" style="color: #000; text-decoration: none;">**KAIST AIPR Lab**</a>, Daejeon, South Korea (Jun 2018 - Aug 2018)
-- Military Service, <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp" style="color: #000; text-decoration: none;">**ROK Army KATUSA**</a>, Seoul, South Korea (Apr 2014 - Jan 2016)
+## Papers
+
+- **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
+Jaeyun Song, <u>SungYub Kim</u>, Eunho Yang \\
+*Under reiview*
+
+- **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
+<u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
+*Under reiview*
+
+- <a href="https://arxiv.org/abs/2209.15208">
+**Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
+</a> \\
+<u>SungYub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
+*ICLR, 2023 (Spotlightted)*
+
+- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
+**Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
+</a>\\
+<u>SungYub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang \\
+*arXiv, preprint*
+
+- <a href="https://arxiv.org/abs/1906.03118">
+**Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
+</a> \\
+<u>SungYub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang \\
+*arXiv, preprint*
+
+- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
+Kyungjae Lee, <u>SungYub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
+*Robotics: Science and Systems Foundation*
 
 
 ## Projects
-- Development of Technology for Content Creation and Automated Correction Based on Deep Learning, **Naver AI**, 2021-Present
 
-- Development of brain-inspired AI with human-like intelligence, **IITP**, 2019-Present
+- Autonomous Intelligent Digital Companion Framework and Application \\
+**KOREA ELECTRONICS TECHNOLOGY INSTITUTE**, *2019-2021*
+
+- A study on adaptive point and regional OOD detection techniques based on sub-task generation \\
+**SAMSUNG**, *2020-present*
