@@ -11,18 +11,17 @@ redirect_from:
 I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/" style="color: #000; text-decoration:none">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/" style="color: #000; text-decoration: none;">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
-- Video Generation
-- Graph Representation Learning
-- Class-Imbalance Problem
-- Automatic Speech Recognition
+- Generalization of Deep Learning via Loss Landscape
+- Bayesian Deep Learning
+- Post-hoc analysis of pre-traiend models
 
 
 ## Education
-- **Ph.D.** in Graduate School of AI, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2021 - Present</font> 
+- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2019 - Present</font> 
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #000; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a>, <font size="3">Mar. 2019 - Feb. 2021</font> 
+- **M.S.** in Mathematical Optimization, <a href="http://polytope.snu.ac.kr/" style="color: #000; text-decoration: none;">**Seoul National University (SNU)**</a>, <font size="3">Mar. 2017 - Feb. 2019</font> 
 
-- **B.S.** in Mathematics, <a href="https://www.postech.ac.kr/eng/" style="color: #000; text-decoration: none;">**Pohang University of Science and Technology (POSTECH)**</a>, <font size="3">Mar. 2012 - Feb. 2019</font>
+- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/" style="color: #000; text-decoration: none;">**Seoul National University (SNU)**</a>, <font size="3">Mar. 2013 - Feb. 2017</font>
 
 
 ## Conference Publications
