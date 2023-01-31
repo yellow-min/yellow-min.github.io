@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/">**Machine Learning and Intelligence Lab (MLILAB)**</a> in KAIST, under the supervision of <a href="https://sites.google.com/site/yangeh/">**Prof. Eunho Yang**</a>.
+I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/">**Machine Learning and Intelligence Lab**</a> in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of <a href="https://sites.google.com/site/yangeh/">**Prof. Eunho Yang**</a>.
 
 My research interest includes:
-- Post-hoc analysis & applications of pre-traiend models
-- Generalization of deep learning via the lens of loss landscape
-- Bayesian deep learning (especially, Laplace Approximation)
+- Post-hoc analysis & applications of pre-traiend models.
+- Generalization of deep learning via the lens of loss landscape.
+- Bayesian deep learning (especially, Laplace Approximation).
 
 
 ## Education
-- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**KAIST**</a>\\
-*Mar. 2019 - Present*
+- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology**</a>\\
+  *Mar. 2019 - Present*
   
-- **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**SNU**</a>\\
+- **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**Seoul National University**</a>\\
 *Mar. 2017 - Feb. 2019*
 
-- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/">**SNU**</a>\\
+- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/">**Seoul National University**</a>\\
 *Mar. 2013 - Feb. 2017*
 
 
