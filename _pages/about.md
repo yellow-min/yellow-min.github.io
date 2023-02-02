@@ -37,7 +37,7 @@ Jaeyun Song, <u>SungYub Kim</u>, Eunho Yang \\
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *Under reiview*
 
-- <a href="https://arxiv.org/abs/2209.15208">
+- <a href="https://openreview.net/forum?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 <u>SungYub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
