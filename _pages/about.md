@@ -30,7 +30,7 @@ My research interest includes:
 ## Papers
 
 - **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
-Jaeyun Song, <u>SungYub Kim</u>, Eunho Yang \\
+Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 *Under reiview*
 
 - **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
