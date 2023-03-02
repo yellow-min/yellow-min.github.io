@@ -13,7 +13,7 @@ I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/">**Machine Learning and 
 My research interest includes:
 - Post-hoc analysis & applications of pre-traiend models.
 - Generalization of deep learning via the lens of loss landscape.
-- Bayesian deep learning (especially, Laplace Approximation).
+- Bayesian deep learning (especially, Laplace approximation).
 
 
 ## Education
@@ -31,17 +31,17 @@ My research interest includes:
 
 - **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
 Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
-*Under reiview*
+*Under review*
 
 - **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
-*Under reiview*
+*Under review*
 
 - <a href="https://openreview.net/forum?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 <u>SungYub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
-*ICLR, 2023 (Spotlightted)*
+*ICLR, 2023 (Spotlighted)*
 
 - <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
