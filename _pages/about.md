@@ -29,13 +29,13 @@ My research interest includes:
 
 ## Papers
 
-- **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
-Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
-*Under review*
-
 - **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *Under review*
+
+- **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
+Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
+*ICML, 2023*
 
 - <a href="https://openreview.net/forum?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
