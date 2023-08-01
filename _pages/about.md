@@ -33,7 +33,8 @@ My research interest includes:
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *Under review*
 
-- **RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
+- <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
+**RGE: A Repulsive Graph Rectification for Node Classification via Influence** \\
 Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 *ICML, 2023*
 
