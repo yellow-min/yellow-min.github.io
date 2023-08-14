@@ -65,7 +65,13 @@ Kyungjae Lee, <u>SungYub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein
 ## Projects
 
 - Autonomous Intelligent Digital Companion Framework and Application \\
-**KOREA ELECTRONICS TECHNOLOGY INSTITUTE**, *2019-2021*
+**Korea Electronics Technology Institute**, *2019-2021*
 
 - A study on adaptive point and regional OOD detection techniques based on sub-task generation \\
-**SAMSUNG**, *2020-present*
+**Samsung**, *2020-present*
+
+- A machine learning and statistical inference framework for explainable artificial intelligence \\
+**Institute of Information & Communications Technology Planning & Evaluation (IITP)**, *2022-present*
+
+- A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *2022-present*
