@@ -39,7 +39,7 @@ My research interest includes:
 Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 *ICML, 2023*
 
-- <a href="https://openreview.net/forum?id=VZ5EaTI6dqa">
+- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
 <u>SungYub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
