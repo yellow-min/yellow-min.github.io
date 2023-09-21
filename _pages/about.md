@@ -31,35 +31,35 @@ My research interest includes:
 ## Papers
 
 - <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
-<u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
+<u>Sung-Yub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *NeurIPS, 2023*
 
 -  <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
 **RGE: A Repulsive Graph Rectification for Node Classification via Influence** 
 </a>\\
-Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
+Jaeyun Song\*, <u>Sung-Yub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 *ICML, 2023*
 
 - <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
 **Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
 </a> \\
-<u>SungYub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
+<u>Sung-Yub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
 - <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a>\\
-<u>SungYub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang \\
+<u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang \\
 *arXiv, preprint*
 
 - <a href="https://arxiv.org/abs/1906.03118">
 **Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
 </a> \\
-<u>SungYub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang \\
+<u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang \\
 *arXiv, preprint*
 
 - <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
-Kyungjae Lee, <u>SungYub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
+Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
 *Robotics: Science and Systems Foundation*
 
 
