@@ -31,9 +31,9 @@ My research interest includes:
 
 - **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
-*Under review*
+*NeurIPS, 2023*
 
-- <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
+-  <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
 **RGE: A Repulsive Graph Rectification for Node Classification via Influence** 
 </a>\\
 Jaeyun Song\*, <u>SungYub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
