@@ -29,7 +29,7 @@ My research interest includes:
 
 ## Papers
 
-- **GEX: A flexible method for approximating influence via Geometric Ensemble** \\
+- <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
 <u>SungYub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *NeurIPS, 2023*
 
