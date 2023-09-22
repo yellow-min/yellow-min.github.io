@@ -28,7 +28,7 @@ My research interest includes:
 *Mar. 2013 - Feb. 2017*
 
 
-## Papers
+## Publisehd Papers
 
 - <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
 <u>Sung-Yub Kim</u>, Kyungsu Kim, Eunho Yang \\
@@ -46,22 +46,24 @@ Jaeyun Song\*, <u>Sung-Yub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 <u>Sung-Yub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
+- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
+Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
+*Robotics: Science and Systems Foundation*
+
+## Preprints
+
+- **Post-Training Recovery from Injected Bias with Self-Influence**\\
+Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution) \\
+
 - <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a>\\
 <u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang \\
-*arXiv, preprint*
 
 - <a href="https://arxiv.org/abs/1906.03118">
 **Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
 </a> \\
 <u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang \\
-*arXiv, preprint*
-
-- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
-Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
-*Robotics: Science and Systems Foundation*
-
 
 ## Projects
 
