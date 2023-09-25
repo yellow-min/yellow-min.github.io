@@ -53,17 +53,17 @@ Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaei
 ## Preprints
 
 - **Post-Training Recovery from Injected Bias with Self-Influence**\\
-Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution) \\
+Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution)
 
 - <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
-</a>\\
-<u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang \\
+</a> \\
+<u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang
 
 - <a href="https://arxiv.org/abs/1906.03118">
 **Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
 </a> \\
-<u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang \\
+<u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang
 
 ## Projects
 
