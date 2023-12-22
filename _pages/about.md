@@ -19,7 +19,7 @@ My research interest includes:
 
 ## Education
 - **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology**</a>\\
-  *Mar. 2019 - Feb. 2024 (expected)*
+  *Mar. 2019 - Feb. 2024*
   
 - **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**Seoul National University**</a>\\
 *Mar. 2017 - Feb. 2019*
