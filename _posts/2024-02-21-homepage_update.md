@@ -7,9 +7,11 @@ layout: single
 author_profile: true
 comments: true
 permalink: /blog/homepage-update/
+tags:
+    - github-pages
 ---
 
-출처: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+출처: <https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll>
 
 * 코드 수정한 다음에
 ```bash

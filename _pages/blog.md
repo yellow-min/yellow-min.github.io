@@ -1,5 +1,5 @@
 ---
-title: "Posts list"
+title: "Posts"
 description: "Blog"
 permalink: /blog/
 layout: posts
