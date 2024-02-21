@@ -30,7 +30,7 @@ My research interest includes:
 *Mar. 2013 - Feb. 2017*
 
 
-## Publisehd Papers
+## Published Papers
 
 - <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
 <u>Sung-Yub Kim</u>, Kyungsu Kim, Eunho Yang \\
