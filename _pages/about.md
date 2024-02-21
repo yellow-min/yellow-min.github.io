@@ -9,15 +9,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://mli.kaist.ac.kr/">**Machine Learning and Intelligence Lab**</a> in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of <a href="https://sites.google.com/site/yangeh/">**Prof. Eunho Yang**</a>.
+I'm a Research Scientist in <a href="https://www.sait.samsung.co.kr/">**SAIT**</a>.
 
 My research interest includes:
-- Post-hoc analysis & applications of pre-traiend models.
+- Post-hoc analysis & applications of pre-traiend models (especially, Foundation Models).
 - Generalization of deep learning via the lens of loss landscape.
-- Bayesian deep learning (especially, Laplace approximation).
+- Bayesian deep learning (especially, Laplace Approximation).
+- Explainability and interpretability of large-scale neural networks.
 
 
 ## Education
+
 - **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology**</a>\\
   *Mar. 2019 - Feb. 2024*
   
@@ -71,10 +73,10 @@ Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-
 **Korea Electronics Technology Institute**, *2019-2021*
 
 - A study on adaptive point and regional OOD detection techniques based on sub-task generation \\
-**Samsung**, *2020-present*
+**Samsung**, *2020-2023*
 
 - A machine learning and statistical inference framework for explainable artificial intelligence \\
-**Institute of Information & Communications Technology Planning & Evaluation (IITP)**, *2022-present*
+**Institute of Information & Communications Technology Planning & Evaluation (IITP)**, *2022-2023*
 
 - A Study on Optimization and Network Interpretation Method for Large-Scale Machine Learning \\
-**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *2022-present*
+**National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)**, *2022-2023*
