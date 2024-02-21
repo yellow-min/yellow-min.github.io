@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist in <a href="https://www.sait.samsung.co.kr/">**SAIT**</a>.
+I'm a Research Scientist @ <a href="https://www.sait.samsung.co.kr/">**SAIT**</a>.
 
 My research interest includes:
 - Post-hoc analysis & applications of pre-traiend models (especially, Foundation Models).
