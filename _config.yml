@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sung-Yub Kim's homepage"
+title                    : "About Me"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Sung-Yub Kim"
-description              : &description "Research Scientist @ SAIT, Samsung Electronics"
+description              : &description "Research Scientist @ SAIT"
 url                      : "https://sungyubkim.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sungyubkim/sungyubkim.github.io"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Sung-Yub Kim"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Ph.D student at GSAI, KAIST."
+  bio              : "Research Scientist @ SAIT"
   location         : "Daejeon, South Korea"
   links:
     - label: "Email"
@@ -159,6 +159,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -285,7 +286,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/blog/"
       type: posts
     values:
       layout: single
