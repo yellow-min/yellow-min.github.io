@@ -55,7 +55,8 @@ Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaei
 ## Preprints
 
 - <a href="https://arxiv.org/abs/2404.00384">
-**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias** <\a> \\
+**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias** 
+</a> \\
 Sanghyun Jo*, Soohyun Ryu*, <u>Sungyub Kim</u>, Eunho Yang, Kyungsu Kim (\*: equal contribution)
 
 - **Post-Training Recovery from Injected Bias with Self-Influence**\\
