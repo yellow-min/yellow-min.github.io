@@ -20,7 +20,7 @@ title                    : "Sung-Yub Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Sung-Yub Kim"
-description              : &description "Research Scientist @ SAIT"
+description              : &description "Researcher LLM team @ SAIT"
 url                      : "https://sungyubkim.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sungyubkim/sungyubkim.github.io"
