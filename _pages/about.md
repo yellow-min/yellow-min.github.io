@@ -9,13 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Scientist @ <a href="https://www.sait.samsung.co.kr/">**SAIT, Samsung Electronics**</a>.
+I'm a researcher in the LLM team @ <a href="https://www.sait.samsung.co.kr/">**SAIT, Samsung Electronics**</a>.
 
 My research interest includes:
-- Post-hoc analysis & applications of pre-traiend models (especially, Foundation Models).
-- Generalization of deep learning via the lens of loss landscape.
-- Bayesian deep learning (especially, Laplace Approximation).
-- Explainability and interpretability of large-scale neural networks.
+- Post-hoc analysis & adaptation of Foundation models (e.g., Large-Language Models and Vision-Language Models).
+- Explainability and interpretability of Foundation models.
+- Generalization of Foundation models via the lens of loss landscape.
 
 
 ## Education
