@@ -31,29 +31,23 @@ My research interest includes:
 
 ## Published Papers
 
-- <a href="https://openreview.net/forum?id=ZVrrPNqHFw">**A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective**<\a> \\
+- <a href="https://openreview.net/pdf?id=ZVrrPNqHFw">**A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective**</a> \\
 Yeonsung Jung\*, Jaeyun Song\*, June Yong Yang\*, Jin-Hwa Kim, <u>Sung-Yub Kim</u>, and Eunho Yang (\*: equal contribution) \\
 *NeurIPS, 2023*
 
-- <a href="https://arxiv.org/abs/2404.00384">
-**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias** 
-</a> \\
-Sanghyun Jo\*, Soohyun Ryu\*, <u>Sungyub Kim</u>, Eunho Yang, Kyungsu Kim (\*: equal contribution)
-European Conference on Computer Vision (ECCV), 2024
+- <a href="https://arxiv.org/abs/2404.00384">**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias**</a> \\
+Sanghyun Jo\*, Soohyun Ryu\*, <u>Sungyub Kim</u>, Eunho Yang, Kyungsu Kim (\*: equal contribution) \\
+*European Conference on Computer Vision (ECCV), 2024*
 
 - <a href="https://openreview.net/pdf?id=tz4ECtAu8e">**GEX: A flexible method for approximating influence via Geometric Ensemble**</a> \\
 <u>Sung-Yub Kim</u>, Kyungsu Kim, Eunho Yang \\
 *NeurIPS, 2023*
 
--  <a href="https://openreview.net/pdf?id=OcKwZhPwHA">
-**RGE: A Repulsive Graph Rectification for Node Classification via Influence** 
-</a>\\
+-  <a href="https://openreview.net/pdf?id=OcKwZhPwHA">**RGE: A Repulsive Graph Rectification for Node Classification via Influence**</a>\\
 Jaeyun Song\*, <u>Sung-Yub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 *ICML, 2023*
 
-- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">
-**Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**
-</a> \\
+- <a href="https://openreview.net/pdf?id=VZ5EaTI6dqa">**Scale-invariant Bayesian Neural Networks with Connectivity Tangent Kernel**</a> \\
 <u>Sung-Yub Kim</u>, Sihwan Park, Kyungsu Kim, Eunho Yang \\
 *ICLR, 2023 (Spotlighted)*
 
