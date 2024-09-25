@@ -31,6 +31,10 @@ My research interest includes:
 
 ## Published Papers
 
+- <a href="https://openreview.net/forum?id=ZVrrPNqHFw">**A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective**<\a> \\
+Yeonsung Jung\*, Jaeyun Song\*, June Yong Yang\*, Jin-Hwa Kim, <u>Sung-Yub Kim</u>, and Eunho Yang (\*: equal contribution) \\
+*NeurIPS, 2023*
+
 - <a href="https://arxiv.org/abs/2404.00384">
 **TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias** 
 </a> \\
@@ -56,21 +60,6 @@ Jaeyun Song\*, <u>Sung-Yub Kim</u>\*, Eunho Yang (\*: equal contribution) \\
 - <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Generalized Tsallis Entropy Reinforcement Learning and Its Application to Soft Mobile Robots**</a> \\
 Kyungjae Lee, <u>Sung-Yub Kim</u>, Sungbin Lim, Sungjoon Choi, Mineui Hong, Jaein Kim, Yong-Lae Park, and Songhwai Oh \\
 *Robotics: Science and Systems Foundation*
-
-## Preprints
-
-- **Post-Training Recovery from Injected Bias with Self-Influence**\\
-Jaeyun Song\* and Yeonsung Jung\* and June Yong Yang\* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution)
-
-- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
-**Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
-</a> \\
-<u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang
-
-- <a href="https://arxiv.org/abs/1906.03118">
-**Reliable Estimation of Individual Treatment Effect with Causal Information Bottleneck**
-</a> \\
-<u>Sung-Yub Kim</u>, Yongsu Baek, Sung Ju Hwang, Eunho Yang
 
 ## Projects
 
