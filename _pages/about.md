@@ -33,7 +33,7 @@ My research interest includes:
 
 - <a href="https://openreview.net/pdf?id=ZVrrPNqHFw">**A Simple Remedy for Dataset Bias via Self-Influence: A Mislabeled Sample Perspective**</a> \\
 Yeonsung Jung\*, Jaeyun Song\*, June Yong Yang\*, Jin-Hwa Kim, <u>Sung-Yub Kim</u>, and Eunho Yang (\*: equal contribution) \\
-*NeurIPS, 2023*
+*NeurIPS, 2024*
 
 - <a href="https://arxiv.org/abs/2404.00384">**TTD: Text-Tag Self-Distillation Enhancing Image-Text Alignment in CLIP to Alleviate Single Tag Bias**</a> \\
 Sanghyun Jo\*, Soohyun Ryu\*, <u>Sungyub Kim</u>, Eunho Yang, Kyungsu Kim (\*: equal contribution) \\
