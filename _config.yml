@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sung-Yub Kim"
+title                    : "Minjeong Kang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Sung-Yub Kim"
-description              : &description "Researcher LLM team @ SAIT"
-url                      : "https://sungyubkim.github.io/"
+name                     : &name "Minjeong Kang"
+description              : &description "Ph.D. @ KAIST"
+url                      : "https://yellow-min.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sungyubkim/sungyubkim.github.io"
+repository               : "yellow-min/yellow-min.github.io/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "sungyubkim" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "yellow-min" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,29 +102,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sung-Yub Kim"
-  avatar           : "/assets/images/bio-photo.png"
-  bio              : "Research Scientist @ SAIT"
+  name             : "Minjeong Kang"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Ph.D. @ KAIST"
   location         : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sungyub.kim@mli.kaist.ac.kr"
+      url: "mailto:minmin@kaist.ac.kr"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=m2rhgrkAAAAJ&hl=ko"
+      url: "https://scholar.google.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sung-yub-kim-0a82a1264/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SungyubK"
+      url: "https://www.linkedin.com/in/minjeong-kang-034a87302/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sungyubkim"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/sungyub.kimzz/"
+      url: "https://github.com/yellow-min"
 
 # Site Footer
 footer:
