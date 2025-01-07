@@ -32,7 +32,7 @@ My research interest includes:
 *Synthetic Biology: Methods in Molecular Biology (Second Edition), doi.org/10.1007/978-1-0716-3658-9_7, 2024*
 
 - <a href="https://www.sciencedirect.com/science/article/pii/S1096717624000582">**Serial adaptive laboratory evolution enhances mixed carbon metabolic capacity of <i>Escherichia coli</i>**</a> \\
-Kangsan Kim, Donghui Choe, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Suhyung Cho, Ki Jun Jeong, Bernhard Palsson, and Byung-Kwan Cho \\
+Kangsan Kim, Donghui Choe, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Suhyung Cho, Ki Jun Jeong, Bernhard Palsson, Byung-Kwan Cho \\
 *Metabolic Engineering,doi.org/10.1016/j.ymben.2024.04.004, 2024*
 
 - <a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1267378/full">**Systems and synthetic biology-driven engineering of live bacterial therapeutics**</a> \\
@@ -74,15 +74,19 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 ## Honor & Awards
 
-- **2013.03-2013.08** National scholarship (type I)  
-- **2015.03-2017.02** National Outstanding Scholarship in Science and Engineering  
-- **2017.09-2025.02** National full scholarship of Republic of Korea  
-- **2018.11** Scholarship from Woo-Deok Yoon Duk-Byung foundation, Republic of Korea  
-- **2019.06** Best Poster Presentation Award, KMB 46th Annual Meeting and International Symposium, Jeju, Korea  
-- **2022.09** Travel Grant Award, 2022 KSBB Fall Meeting and International Symposium, Jeju, Korea  
+| Period               | Award                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| 2013.03-2013.08      | National scholarship (type I)                                                                |
+| 2015.03-2017.02      | National Outstanding Scholarship in Science and Engineering                                   |
+| 2017.09-2025.02      | National full scholarship of Republic of Korea                                               |
+| 2018.11              | Scholarship from Woo-Deok Yoon Duk-Byung foundation, Republic of Korea                       |
+| 2019.06              | Best Poster Presentation Award, KMB 46th Annual Meeting and International Symposium, Jeju, Korea |
+| 2022.09              | Travel Grant Award, 2022 KSBB Fall Meeting and International Symposium, Jeju, Korea          |
 
 ## Experiences
 
-- **2015.09-2016.08** Visiting Student in Wayne State University, United States  
-- **2016.01-2016.05** Completed a 4-credit laboratory-based research course at Wayne State University, United States (Advisor: Karen A. Beningo)  
-- **2017.01-2017.08** Research Intern at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University (Advisor: Hyung Ho Lee) 
+| Period               | Experience                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| 2015.09-2016.08      | Visiting Student in Wayne State University, United States                                    |
+| 2016.01-2016.05      | Completed a 4-credit laboratory-based research course at Wayne State University, United States (Advisor: Karen A. Beningo) |
+| 2017.01-2017.08      | Research Intern at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University (Advisor: Hyung Ho Lee) |
