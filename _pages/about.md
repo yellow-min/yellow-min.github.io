@@ -69,7 +69,7 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 ## Patent
 
-- 부티레이트를 생산하는 박테로이데스 테타이오타오미크론 균주 및 이를 이용한 부티레이트 생산방법 \\
+- **부티레이트를 생산하는 박테로이데스 테타이오타오미크론 균주 및 이를 이용한 부티레이트 생산방법** \\
   조병관, 김강산, 강민정 (2022) 출원번호 10-2022-0071565
 
 ## Honor & Awards
