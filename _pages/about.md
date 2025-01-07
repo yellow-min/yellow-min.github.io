@@ -74,15 +74,18 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 ## Honor & Awards
 
-2013.03-2013.08      National scholarship (type I)  
-2015.03-2017.02      National Outstanding Scholarship in Science and Engineering  
-2017.09-2025.02      National full scholarship of Republic of Korea  
-2018.11              Scholarship from Woo-Deok Yoon Duk-Byung foundation, Republic of Korea  
-2019.06              Best Poster Presentation Award, KMB 46th Annual Meeting and International Symposium, Jeju, Korea  
-2022.09              Travel Grant Award, 2022 KSBB Fall Meeting and International Symposium, Jeju, Korea  
+- **2013.03-2013.08**      National scholarship (type I)  
+- **2015.03-2017.02**      National Outstanding Scholarship in Science and Engineering  
+- **2017.09-2025.02**      National full scholarship of Republic of Korea  
+- **2018.11**              Scholarship from Woo-Deok Yoon Duk-Byung foundation, Republic of Korea  
+- **2019.06**              Best Poster Presentation Award, KMB 46th Annual Meeting and International Symposium,  
+                           Jeju, Korea  
+- **2022.09**              Travel Grant Award, 2022 KSBB Fall Meeting and International Symposium, Jeju, Korea  
 
 ## Experiences
 
-2015.09-2016.08      Visiting Student in Wayne State University, United States  
-2016.01-2016.05      Completed a 4-credit laboratory-based research course at Wayne State University, United States (Advisor: Karen A. Beningo)  
-2017.01-2017.08      Research Intern at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University (Advisor: Hyung Ho Lee)  
+- **2015.09-2016.08**      Visiting Student in Wayne State University, United States  
+- **2016.01-2016.05**      Completed a 4-credit laboratory-based research course at Wayne State University, United 
+                           States (Advisor: Karen A. Beningo)  
+- **2017.01-2017.08**      Research Intern at the Molecular Biology Laboratory, Department of Biotechnology, 
+                           Pukyong National University (Advisor: Hyung Ho Lee) 
