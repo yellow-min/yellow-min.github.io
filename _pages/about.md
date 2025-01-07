@@ -28,10 +28,10 @@ My research interest includes:
 ## Published Papers
 
 - <a href="https://link.springer.com/protocol/10.1007/978-1-0716-3658-9_7">**CRISPRi-Driven Genetic Screening for Designing Novel Microbial Phenotypes**</a> \\
-<u>Minjeong Kang<u>, Kangsan Kim, and Byung-Kwan Cho \\
+<u>Minjeong Kang</u>, Kangsan Kim, Byung-Kwan Cho \\
 *Synthetic Biology: Methods in Molecular Biology (Second Edition), doi.org/10.1007/978-1-0716-3658-9_7, 2024*
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S1096717624000582">**Serial adaptive laboratory evolution enhances mixed carbon metabolic capacity of <i>Escherichia coli<i>**</a> \\
+- <a href="https://www.sciencedirect.com/science/article/pii/S1096717624000582">**Serial adaptive laboratory evolution enhances mixed carbon metabolic capacity of <i>Escherichia coli</i>**</a> \\
 Kangsan Kim, Donghui Choe, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Suhyung Cho, Ki Jun Jeong, Bernhard Palsson, and Byung-Kwan Cho \\
 *Metabolic Engineering,doi.org/10.1016/j.ymben.2024.04.004, 2024*
 
@@ -47,15 +47,15 @@ Kangsan Kim, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Eojin Yoo, Ui-Gi Kim, Suhyung
 Kangsan Kim, Donghui Choe, <u>Minjeong Kang</u>, Bong Hyun Sung, Haseong Kim, Seung-Goo Lee, Dae-Hee Lee, Byung-Kwan Cho\\
 *Principles in Microbiome Engineering, doi.org/10.1002/9783527825462.ch3, 2022*
 
-- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Synthetic 3′-UTR valves for optimal metabolic flux control in <i>Escherichia coli<i>**</a> \\
+- <a href="https://rllab.snu.ac.kr/publications/papers/2020_rss_tac.pdf">**Synthetic 3′-UTR valves for optimal metabolic flux control in <i>Escherichia coli</i>**</a> \\
 Donghui Choe, Kangsan Kim, <u>Minjeong Kang</u>, Seung-Goo Lee, Suhyung Cho, Bernhard Palsson, Byung-Kwan Cho \\
 *Nucleic Acids Research, doi.org/10.1093/nar/gkac206, 2022,*
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S1096717621001750">**Adaptive laboratory evolution of <i>Escherichia coli<i> W enhances gamma-aminobutyric acid production using glycerol as the carbon source**</a> \\
+- <a href="https://www.sciencedirect.com/science/article/pii/S1096717621001750">**Adaptive laboratory evolution of <i>Escherichia coli</i> W enhances gamma-aminobutyric acid production using glycerol as the carbon source**</a> \\
 Kangsan Kim, Chen Yuan Hou, Donghui Choe, <u>Minjeong Kang</u>, Suhyung Cho, Bong Hyun Sung, Dae-Hee Lee, Seung-Goo Lee, Taek Jin Kang, Byung-Kwan Cho \\
 *Metabolic Engineering, doi.org/10.1016/j.ymben.2021.11.004, 2022,*
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S1096717621001567">**Engineering <i>Bacteroides thetaiotaomicron<i> to produce non-native butyrate based on a genome-scale metabolic model-guided design**</a> \\
+- <a href="https://www.sciencedirect.com/science/article/pii/S1096717621001567">**Engineering <i>Bacteroides thetaiotaomicron</i> to produce non-native butyrate based on a genome-scale metabolic model-guided design**</a> \\
 Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-Hee Lee, Byung-Kwan Cho \\
 *Metabolic Engineering, doi.org/10.1016/j.ymben.2021.10.005, 2021,*
 
@@ -63,7 +63,7 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 <u>Minjeong Kang</u>, Donghui Choe, Kangsan Kim, Byung-Kwan Cho, Suhyung Cho \\
 *International Journal of Molecular Sciences, doi.org/10.3390/ijms21228744, 2020,*
 
-- <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.01845/full">**Inactivation of a Mismatch-Repair System Diversifies Genotypic Landscape of <i>Escherichia coli<i> During Adaptive Laboratory Evolution**</a> \\
+- <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.01845/full">**Inactivation of a Mismatch-Repair System Diversifies Genotypic Landscape of <i>Escherichia coli</i> During Adaptive Laboratory Evolution**</a> \\
 <u>Minjeong Kang</u>, Kangsan Kim, Donghui Choe, Suhyung Cho, Sun Chang Kim, Bernhard Palsson, Byung-Kwan Cho \\
 *Frontiers in Microbiology, doi.org/10.3389/fmicb.2019.01845, 2019,*
 
