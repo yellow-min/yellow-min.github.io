@@ -9,24 +9,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher in the LLM team @ <a href="https://www.sait.samsung.co.kr/">**SAIT, Samsung Electronics**</a>.
+I earned my Ph.D. from KAIST @ <a href="http://cholab.or.kr/">**Systems & Synthetic Biology Laboratory**</a>.
 
 My research interest includes:
-- Post-hoc analysis & adaptation of Foundation models (e.g., Large-Language Models and Vision-Language Models).
-- Explainability and interpretability of Foundation models.
-- Generalization of Foundation models via the lens of loss landscape.
+- Systems biology
+- Synthetic biology
 
 
 ## Education
 
-- **Ph.D.** in Graduate School of AI, <a href="https://gsai.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
-*Mar. 2019 - Feb. 2024*
+- **Ph.D.** in Graduate School of Biological Sciences, <a href="https://bio.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
+*Sep. 2017 - Feb. 2025*
   
-- **M.S.** in Industrial Engineering (Mathematical optimization), <a href="http://polytope.snu.ac.kr/">**Seoul National University (SNU)**</a>\\
-*Mar. 2017 - Feb. 2019*
-
-- **B.S.** in Industrial Engineering & Mathematical Science, <a href="http://ie.snu.ac.kr/">**Seoul National University (SNU)**</a>\\
-*Mar. 2013 - Feb. 2017*
+- **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a>\\
+*Mar. 2013 - Aug. 2017*
 
 
 ## Published Papers
