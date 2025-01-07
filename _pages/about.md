@@ -73,21 +73,36 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
   조병관, 김강산, 강민정 (2022) 출원번호 10-2022-0071565
 
 ## Honor & Awards
-<pre>
-- **2013.03-2013.08**      National scholarship (type I)  
-- **2015.03-2017.02**      National Outstanding Scholarship in Science and Engineering  
-- **2017.09-2025.02**      National full scholarship of Republic of Korea  
-- **2018.11**              Scholarship from Woo-Deok Yoon Duk-Byung foundation, Republic of Korea  
-- **2019.06**              Best Poster Presentation Award, KMB 46th Annual Meeting and International Symposium,  
-                           Jeju, Korea  
-- **2022.09**              Travel Grant Award, 2022 KSBB Fall Meeting and International Symposium, Jeju, Korea  
-</pre>
+
+- **National scholarship (type I)**, Republic of Korea \\
+*Mar. 2013 - Aug. 2013*
+
+- **National Outstanding Scholarship in Science and Engineering**, Republic of Korea \\
+*Mar. 2015 - Feb. 2017*
+
+- **National full scholarship**, Republic of Korea \\
+*Sep. 2017 - Feb. 2025*
+
+- **Scholarship from Woo-Deok Yoon Duk-Byung foundation**, Republic of Korea \\
+*Nov. 2018*
+
+- **Best Poster Presentation Award**, KMB 46th Annual Meeting and International Symposium, Jeju, Republic of Korea   \\
+*Jun. 2019*
+
+- **Travel Grant Award**, 2022 KSBB Fall Meeting and International Symposium, Jeju, Republic of Korea   \\
+*Jun. 2019*
+
 
 ## Experiences
-<pre>
-- **2015.09-2016.08**      Visiting Student in Wayne State University, United States  
-- **2016.01-2016.05**      Completed a 4-credit laboratory-based research course at Wayne State University, United 
-                           States (Advisor: Karen A. Beningo)  
-- **2017.01-2017.08**      Research Intern at the Molecular Biology Laboratory, Department of Biotechnology, 
-                           Pukyong National University (Advisor: Hyung Ho Lee)
-</pre> 
+
+- **Visiting Student** in Wayne State University, United States   \\
+*Sep. 2015 - Aug. 2016*
+
+- Completed a **4-credit laboratory-based research course** at Wayne State University, United States **(Advisor: Karen A. Beningo)**   \\
+*Jan. 2016 - May. 2016*
+**Investigation of the impact of mechanical stimulation on cancer cell invasion.**
+
+ 
+ - **Research Intern** at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University **(Advisor: Hyung Ho Lee)**   \\
+*Jan. 2016 - May. 2016* \\
+**Construction of a recombinant protein of cathepsin B from <i>Eptatretus burgeri</i> and its enzymatic activity analysis**
