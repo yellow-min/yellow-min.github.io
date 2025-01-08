@@ -23,22 +23,22 @@ My research interest includes:
 - **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization  \\
 *- Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization*
 
-- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min">**GitHub**</a>\\ 
+- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min">**GitHub**</a>
 *- In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data*
 
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
 
 ## Projects
-- **E. coli with enhanced growth on diverse carbon sources and bioproduction capacity**\\
-- Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
+- **<i>E. coli</i> with enhanced growth on diverse carbon sources and bioproduction capacity**\\
+  - Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
 -	Identified key mutations and regulatory targets through whole-genome resequencing and RNA-Seq, enabling pathway optimization and metabolic rewiring.
 -	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
 
-- **Engineering B. thetaiotaomicron for Non-Native Butyrate Production** \\
+- **Engineering <i>B. thetaiotaomicron</i> for Non-Native Butyrate Production** \\
 -	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
 -	Applied genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains.
 
-- **B. thetaiotaomicron as a therapeutic microbe for long-term colonization in the human gut** \\
+- **<i>B. thetaiotaomicron</i> as a therapeutic microbe for long-term colonization in the human gut** \\
 -	Established cultivation protocols and CRISPRi screening pipelines for B. thetaiotaomicron.
 -	Developed custom Python scripts for high-throughput functional genomics analysis.
 -	Provided insights into key metabolic and regulatory pathways essential for microbial fitness.
@@ -160,8 +160,8 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 - **4-credit laboratory-based research course** compleeted at Wayne State University, United States\\
 *Jan. 2016 - May. 2016*\\
-**Advisor: Karen A. Beningo: Investigation of the impact of mechanical stimulation on cancer cell invasion.**
+**Advisor: Karen A. Beningo, Investigation of the impact of mechanical stimulation on cancer cell invasion.**
  
  - **Research Intern** at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University \\
 *Jan. 2016 - May. 2016* \\
-**Advisor: Hyung Ho Lee: Construction of a recombinant protein of cathepsin B from <i>Eptatretus burgeri</i> and its enzymatic activity analysis**
+**Advisor: Hyung Ho Lee, Construction of a recombinant protein of cathepsin B from <i>Eptatretus burgeri</i> and its enzymatic activity analysis**
