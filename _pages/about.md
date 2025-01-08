@@ -18,13 +18,13 @@ My research interest includes:
 
 ## Skills
 - **Omics studies**: Multi-omics data integration and analysis (Genomics, Transcriptomics, Functional genomics, Microbiomics)
-    -*From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics*
+    -<i>From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics</i>
 
 - **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization
-    -*Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization*
+    -<i>Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization</i>
 
 - **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min">**GitHub**</a>
-    -*In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data*
+    -<i>In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data</i>
 
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
 
