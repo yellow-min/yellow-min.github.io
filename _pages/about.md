@@ -12,8 +12,9 @@ redirect_from:
 I earned my Ph.D. from KAIST @ <a href="http://cholab.or.kr/">**Systems & Synthetic Biology Laboratory**</a>.
 
 My research interest includes:
-- Systems biology
-- Synthetic biology
+-	**Systems Biology**: Leveraging multi-omics data from high-throughput screening and next-generation sequencing, combined with computational analyses, to achieve a comprehensive understanding of gene regulatory networks and microbiome interactions.\\
+-	**Synthetic Biology**: Applying design principles from systems biology to construct microbial strains and biological systems through genome and metabolic engineering, and to develop module-based genetic circuits. Additionally, conducting validation experiments to ensure and optimize the functionality of engineered strains.\\
+- **Applications**: Developing and optimizing microbial strains for the production of industrially valuable compounds and therapeutic microbes for healthcare applications.
 
 
 ## Education
@@ -23,7 +24,6 @@ My research interest includes:
   
 - **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a>\\
 *Mar. 2013 - Aug. 2017*
-
 
 ## Published Papers
 
@@ -72,6 +72,38 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 - **부티레이트를 생산하는 박테로이데스 테타이오타오미크론 균주 및 이를 이용한 부티레이트 생산방법** \\
   조병관, 김강산, 강민정 (2022) 출원번호 10-2022-0071565
 
+
+## Oral & Poster Presentations
+
+- KMB 2024 51st Annual Meeting & International Symposium, Busan, Korea, Microbiome Dynamics in Aging and Rejuvenation Unveiled by 16S rRNA and Metagenomic \\
+*Jun. 19th, 2024*
+
+- 2023 The Korean Federation of Biotechnology Societies 8th Conference, Hongcheon, Korea, Genome-Wide CRISPRi Screening Reveals Key Genetic Determinants in <i>Bacteroides thetaiotaomicron</i> for Survival Across Different Gut-like Environments \\
+*Aug. 17th, 2023*
+
+- 50th Anniversary KMB 2023 Annual Meeting & International Symposium, Gyeongju, Korea, Genome-Wide CRISPRi Screening Reveals Key Genetic Determinants in <i>Bacteroides thetaiotaomicron</i> for Survival Across Different Gut-like Environments \\
+*Jun. 22nd, 2023*
+
+- 50th Anniversary KMB 2023 Winter Symposium, Yongpyong, Korea, Genome-Wide CRISPRi Screening Reveals Key Genetic Determinants in <i>Bacteroides thetaiotaomicron</i> for Survival Across Different Gut-like Environments \\
+*Jan. 17th, 2023*
+
+- 5th International Conference on CRISPR Technologies, San Francisco, USA, Genome-wide CRISPRi Screening Reveals Key Genetic Determinants in <i>Bacteroides thetaiotaomicron</i> for Survival Across Different Gut-like Environments \\
+*Nov. 2nd, 2022*
+
+- 2022 KSBB Fall Meeting & International Symposium, Jeju, Korea, Serial Adaptive Laboratory Evolution of <i>Escherichia coli</i> Enhances Mixed Carbon Utilizing Capacity for Efficient Biochemical Production \\
+*Sep. 29th, 2022*
+
+- Cold Spring Harbor Conferences Asia, Suzhou, China, Inactivation of Mismatch-Repair System Diversifies Genotypic Landscape of <i>Escherichia coli</i> during Adaptive Evolution \\
+*Oct. 22nd, 2019*
+
+- KMB 2019 Winter Symposium, Yongpyong, Korea, Inactivation of Mismatch-Repair System Diversifies Genotypic Landscape of <i>Escherichia coli</i> during Adaptive Evolution \\
+*Jan. 15th, 2019*
+
+- Society for Industrial Microbiology and Biotechnology (SIMB) 2018, Chicago, USA, Inactivation of Mismatch-Repair System Diversifies Genotypic Landscape of Adaptively Evolved <i>Escherichia coli</i> \\
+*Aug. 12th, 2018*
+
+
+
 ## Honor & Awards
 
 - **National scholarship (type I)**, Republic of Korea \\
@@ -98,11 +130,10 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 - **Visiting Student** in Wayne State University, United States   \\
 *Sep. 2015 - Aug. 2016*
 
-- Completed a **4-credit laboratory-based research course** at Wayne State University, United States **(Advisor: Karen A. Beningo)**   \\
-*Jan. 2016 - May. 2016*
-**Investigation of the impact of mechanical stimulation on cancer cell invasion.**
-
+- **4-credit laboratory-based research course** compleeted at Wayne State University, United States\\
+*Jan. 2016 - May. 2016*\\
+**Advisor: Karen A. Beningo: Investigation of the impact of mechanical stimulation on cancer cell invasion.**
  
- - **Research Intern** at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University **(Advisor: Hyung Ho Lee)**   \\
+ - **Research Intern** at the Molecular Biology Laboratory, Department of Biotechnology, Pukyong National University \\
 *Jan. 2016 - May. 2016* \\
-**Construction of a recombinant protein of cathepsin B from <i>Eptatretus burgeri</i> and its enzymatic activity analysis**
+**Advisor: Hyung Ho Lee: Construction of a recombinant protein of cathepsin B from <i>Eptatretus burgeri</i> and its enzymatic activity analysis**
