@@ -16,6 +16,34 @@ My research interest includes:
 -	**Synthetic Biology**: Applying design principles from systems biology to construct microbial strains and biological systems through genome and metabolic engineering, and to develop module-based genetic circuits. Additionally, conducting validation experiments to ensure and optimize the functionality of engineered strains.
 - **Applications**: Developing and optimizing microbial strains for the production of industrially valuable compounds and therapeutic microbes for healthcare applications.
 
+## Skills
+- **Omics studies**: Multi-omics data integration and analysis (Genomics, Transcriptomics, Functional genomics, Microbiomics) \\
+*- From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics*
+
+- **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization  \\
+*- Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization*
+
+- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min">**GitHub**</a>\\ 
+*- In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data*
+
+- **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
+
+## Projects
+- **E. coli with enhanced growth on diverse carbon sources and bioproduction capacity**\\
+- Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
+-	Identified key mutations and regulatory targets through whole-genome resequencing and RNA-Seq, enabling pathway optimization and metabolic rewiring.
+-	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
+
+- **Engineering B. thetaiotaomicron for Non-Native Butyrate Production** \\
+-	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
+-	Applied genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains.
+
+- **B. thetaiotaomicron as a therapeutic microbe for long-term colonization in the human gut** \\
+-	Established cultivation protocols and CRISPRi screening pipelines for B. thetaiotaomicron.
+-	Developed custom Python scripts for high-throughput functional genomics analysis.
+-	Provided insights into key metabolic and regulatory pathways essential for microbial fitness.
+
+
 
 ## Educations
 
@@ -37,7 +65,7 @@ Kangsan Kim, Donghui Choe, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Suhyung Cho, Ki
 
 - <a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2023.1267378/full">**Systems and synthetic biology-driven engineering of live bacterial therapeutics**</a> \\
 Kangsan Kim, <u>Minjeong Kang</u>, Byung-Kwan Cho \\
-*Frontiers in Bioengineering and Biotechnology, doi.org/10.3389/fbioe.2023.1267378,2023*
+*Frontiers in Bioengineering and Biotechnology, doi.org/10.3389/fbioe.2023.1267378, 2023*
 
 -  <a href="https://www.sciencedirect.com/science/article/pii/S2001037022005992">**Minireview: Engineering evolution to reconfigure phenotypic traits in microbes for biotechnological applications**</a>\\
 Kangsan Kim, <u>Minjeong Kang</u>, Sang-Hyeok Cho, Eojin Yoo, Ui-Gi Kim, Suhyung Cho, Bernhard Palsson, Byung-Kwan Cho\\
@@ -61,11 +89,11 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 - <a href="https://www.mdpi.com/1422-0067/21/22/8744">**Synthetic Biology Approaches in the Development of Engineered Therapeutic Microbes**</a> \\
 <u>Minjeong Kang</u>, Donghui Choe, Kangsan Kim, Byung-Kwan Cho, Suhyung Cho \\
-*International Journal of Molecular Sciences, doi.org/10.3390/ijms21228744, 2020,*
+*International Journal of Molecular Sciences, doi.org/10.3390/ijms21228744, 2020*
 
 - <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.01845/full">**Inactivation of a Mismatch-Repair System Diversifies Genotypic Landscape of <i>Escherichia coli</i> During Adaptive Laboratory Evolution**</a> \\
 <u>Minjeong Kang</u>, Kangsan Kim, Donghui Choe, Suhyung Cho, Sun Chang Kim, Bernhard Palsson, Byung-Kwan Cho \\
-*Frontiers in Microbiology, doi.org/10.3389/fmicb.2019.01845, 2019,*
+*Frontiers in Microbiology, doi.org/10.3389/fmicb.2019.01845, 2019*
 
 ## Patent
 
