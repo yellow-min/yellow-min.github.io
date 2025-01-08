@@ -12,12 +12,12 @@ redirect_from:
 I earned my Ph.D. from KAIST @ <a href="http://cholab.or.kr/">**Systems & Synthetic Biology Laboratory**</a>.
 
 My research interest includes:
--	**Systems Biology**: Leveraging multi-omics data from high-throughput screening and next-generation sequencing, combined with computational analyses, to achieve a comprehensive understanding of gene regulatory networks and microbiome interactions.\\
--	**Synthetic Biology**: Applying design principles from systems biology to construct microbial strains and biological systems through genome and metabolic engineering, and to develop module-based genetic circuits. Additionally, conducting validation experiments to ensure and optimize the functionality of engineered strains.\\
+-	**Systems Biology**: Leveraging multi-omics data from high-throughput screening and next-generation sequencing, combined with computational analyses, to achieve a comprehensive understanding of gene regulatory networks and microbiome interactions.
+-	**Synthetic Biology**: Applying design principles from systems biology to construct microbial strains and biological systems through genome and metabolic engineering, and to develop module-based genetic circuits. Additionally, conducting validation experiments to ensure and optimize the functionality of engineered strains.
 - **Applications**: Developing and optimizing microbial strains for the production of industrially valuable compounds and therapeutic microbes for healthcare applications.
 
 
-## Education
+## Educations
 
 - **Ph.D.** in Graduate School of Biological Sciences, <a href="https://bio.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2017 - Feb. 2025*
