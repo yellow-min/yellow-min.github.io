@@ -17,22 +17,22 @@ My research interest includes:
 - **Applications**: Developing and optimizing microbial strains for the production of industrially valuable compounds and therapeutic microbes for healthcare applications.
 
 ## Skills
-- **Omics studies**: Multi-omics data integration and analysis (Genomics, Transcriptomics, Functional genomics, Microbiomics) \\
-*- From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics*
+- **Omics studies**: Multi-omics data integration and analysis (Genomics, Transcriptomics, Functional genomics, Microbiomics)
+    -*From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics*
 
-- **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization  \\
-*- Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization*
+- **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization
+    -*Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization*
 
 - **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min">**GitHub**</a>
-*- In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data*
+    -*In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data*
 
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
 
 ## Projects
 - **<i>E. coli</i> with enhanced growth on diverse carbon sources and bioproduction capacity**
-  - Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
-  -	Identified key mutations and regulatory targets through whole-genome resequencing and RNA-Seq, enabling pathway optimization and metabolic rewiring.
-  -	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
+    - Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
+    -	Identified key mutations and regulatory targets through whole-genome resequencing and RNA-Seq, enabling pathway optimization and metabolic rewiring.
+    -	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
 
 - **Engineering <i>B. thetaiotaomicron</i> for Non-Native Butyrate Production** 
     -	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
