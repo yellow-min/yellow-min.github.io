@@ -23,7 +23,7 @@ My research interest includes:
 - **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization
     - <i>Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization</i>
 
-- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization <a href="https://github.com/yellow-min"> @ **GitHub**</a>
+- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization @ <a href="https://github.com/yellow-min"> **GitHub**</a>
     - <i>In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data</i>
 
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
