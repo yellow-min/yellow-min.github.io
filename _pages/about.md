@@ -35,13 +35,13 @@ My research interest includes:
   -	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
 
 - **Engineering <i>B. thetaiotaomicron</i> for Non-Native Butyrate Production** 
-  -	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
-  -	Applied genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains.
+    -	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
+    -	Applied genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains.
 
 - **<i>B. thetaiotaomicron</i> as a therapeutic microbe for long-term colonization in the human gut**
-  -	Established cultivation protocols and CRISPRi screening pipelines for B. thetaiotaomicron.
-  -	Developed custom Python scripts for high-throughput functional genomics analysis.
-  -	Provided insights into key metabolic and regulatory pathways essential for microbial fitness.
+    -	Established cultivation protocols and CRISPRi screening pipelines for B. thetaiotaomicron.
+    -	Developed custom Python scripts for high-throughput functional genomics analysis.
+    -	Provided insights into key metabolic and regulatory pathways essential for microbial fitness.
 
 
 
