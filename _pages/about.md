@@ -14,34 +14,50 @@ I earned my Ph.D. from KAIST @ <a href="http://cholab.or.kr/">**Systems & Synthe
 My research interest includes:
 -	**Systems Biology**: Leveraging multi-omics data from high-throughput screening and next-generation sequencing, combined with computational analyses, to achieve a comprehensive understanding of gene regulatory networks and microbiome interactions.
 -	**Synthetic Biology**: Applying design principles from systems biology to construct microbial strains and biological systems through genome and metabolic engineering, and to develop module-based genetic circuits. Additionally, conducting validation experiments to ensure and optimize the functionality of engineered strains.
-- **Applications**: Developing and optimizing microbial strains for the production of industrially valuable compounds and therapeutic microbes for healthcare applications.
+- **Applications**: Developing and optimizing microbial strains to create therapeutic microbes for healthcare applications, establish mRNA vaccine and therapeutic cell platforms, and produce industrially valuable compounds.
 
 ## Skills
-- **Omics studies**: Multi-omics data integration and analysis (Genomics, Transcriptomics, Functional genomics, Microbiomics)
-    - <i>From library construction to analysis: Whole-genome sequencing, RNA-seq, CRISPRi screening, 16S rRNA metagenomics</i>
+- **Omics studies**: -	Multi-omics data integration and analysis: genomics (whole-genome sequencing), transcriptomics (RNA-seq), functional genomics (CRISPRi screening), microbiomics (16S rRNA metagenomics)
 
-- **Experimental skills**: Next generation sequencing, high-throughput screening, advanced molecular biology and microbiology techniques, adaptive laboratory evolution (ALE), and cultivation environment optimization
-    - <i>Genetic manipulation (model, non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, media optimization</i>
-
-- **Computational skills**: Development of custom Python and R pipelines for bioinformatics and data visualization @ <a href="https://github.com/yellow-min"> **GitHub**</a>
-    - <i>In-house python script for variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi data</i>
+- **Experimental skills** 
+    - High-throughput screening, sequencing library construction, next generation sequencing
+    - Molecular techniques: genetic manipulation (model and non-model organisms), HPLC, mass spectrometry, SDS-PAGE, western blotting, qRT-PCR, protein purification and isolation, kinetic assay, 3D spheroid assay
+    - Culture and optimization: adaptive laboratory evolution (ALE), culture setting and media optimization
 
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
 
+- **Cell lines**: mammalian cell culture for HT1080 (human fibrosarcoma cells), MDA-MB-231 and HS578T (human breast cancer cell line)
+- **Computational skills**: In-house Python and R pipelines for bioinformatics and data visualization
+-	Website: github.com/yellow-min
+-	Variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi screening analysis, bioinformatics analysis and statistics
+
+
 ## Projects
-- **<i>E. coli</i> with enhanced growth on diverse carbon sources and bioproduction capacity**
-    - Developed optimized strains using ALE and genome engineering to enhance diverse carbon source utilization and value-added compound production (e.g., gamma-aminobutyric acid (GABA) and acetoin).
-    -	Identified key mutations and regulatory targets through whole-genome resequencing and RNA-Seq, enabling pathway optimization and metabolic rewiring.
-    -	Applied systems biology tools such as iModulon analysis to elucidate gene-environment interactions and regulatory adaptations in mixed-carbon conditions.
-
-- **Engineering <i>B. thetaiotaomicron</i> for Non-Native Butyrate Production** 
-    -	Engineered metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantified extracellular metabolites using HPLC.
-    -	Applied genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains.
-
 - **<i>B. thetaiotaomicron</i> as a therapeutic microbe for long-term colonization in the human gut**
-    -	Established cultivation protocols and CRISPRi screening pipelines for B. thetaiotaomicron.
-    -	Developed custom Python scripts for high-throughput functional genomics analysis.
-    -	Provided insights into key metabolic and regulatory pathways essential for microbial fitness.
+    -	Optimizing anaerobic culture conditions and media for B. thetaiotaomicron
+    -	Establishing CRISPRi screening pipelines 
+    -	Developing in-house Python scripts for high-throughput functional genomics analysis
+    -	Providing insights into key metabolic and regulatory pathways essential for microbial fitness
+
+- **Engineering <i>B. thetaiotaomicron</i> for non-native butyrate production** 
+    -	Engineering metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantifying extracellular metabolites using HPLC
+    -	Applying genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains
+
+- **A minimal genome-based cell factory platform for the development of mRNA vaccines and therapeutics**
+    -	Constructing a minimal genome for an error-free and non-toxic DNA cell factory platform (GMP-grade <i>E. coli</i> minimal genome)
+    -	Developing 3' UTR metabolic valves to regulate metabolic flux
+    -	Establishing a high-yield DNA cell factory platform
+
+- **<i>E. coli</i> with enhanced growth on diverse carbon sources and bioproduction capacity**
+    -	Strain development through ALE and genome engineering to enhance the utilization of diverse carbon sources and the production of value-added compounds such as gamma-aminobutyric acid (GABA) and acetoin
+    -	Identifying causal mutations resulting from ALE through whole-genome resequencing and determination of regulatory targets via RNA-Seq, facilitating pathway optimization and metabolic rewiring
+    -	Applying machine-learning based independently regulated modules (iModulon) to elucidate key regulators governing ALE
+
+- **Investigation of cancer cell dissemination under mechanical stimulation using 3D spheroid models**
+    -	Creating 3D spheroids from HT1080, MDA-MB-231, and HS578T cell lines to closely mimic the structural complexity of in vivo tumors
+    -	Embedding spheroids in a collagen–fibronectin matrix containing magnetic beads and applying rotating magnetic forces to induce significant mechanical stress
+    -	Demonstrating that mechanical stimulation notably enhances cancer cell invasion across all spatial dimensions (X, Y, and Z) compared to unstimulated controls
+
 
 
 
@@ -50,7 +66,7 @@ My research interest includes:
 - **Ph.D.** in Graduate School of Biological Sciences, <a href="https://bio.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2017 - Feb. 2025*
   
-- **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a>\\
+- **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a> (<i>Summa cum laude</i>)\\
 *Mar. 2013 - Aug. 2017*
 
 ## Published Papers
@@ -134,16 +150,19 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 
 ## Honor & Awards
 
-- **National scholarship (type I)**, Republic of Korea \\
+- **National Scholarship (type I)**, Republic of Korea \\
 *Mar. 2013 - Aug. 2013*
 
-- **National Outstanding Scholarship in Science and Engineering**, Republic of Korea \\
+- **Academic Excellence Scholarship Recipient**, Pukyong National University, Republic of Korea \\
+*Mar. 2013 - Feb. 2015*
+
+- **National Outstanding Scholarship for Science and Engineering**, Republic of Korea \\
 *Mar. 2015 - Feb. 2017*
 
-- **National full scholarship**, Republic of Korea \\
+- **National Full Scholarship**, Republic of Korea \\
 *Sep. 2017 - Feb. 2025*
 
-- **Scholarship from Woo-Deok Yoon Duk-Byung foundation**, Republic of Korea \\
+- **Scholarship from Woo-Deok Yoon Duk-Byung Foundation**, Republic of Korea \\
 *Nov. 2018*
 
 - **Best Poster Presentation Award**, KMB 46th Annual Meeting and International Symposium, Jeju, Republic of Korea   \\
