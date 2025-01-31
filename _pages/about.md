@@ -17,7 +17,8 @@ My research interest includes:
 - **Applications**: Developing and optimizing microbial strains to create therapeutic microbes for healthcare applications, establish mRNA vaccine and therapeutic cell platforms, and produce industrially valuable compounds.
 
 ## Skills
-- **Omics studies**: -	Multi-omics data integration and analysis: genomics (whole-genome sequencing), transcriptomics (RNA-seq), functional genomics (CRISPRi screening), microbiomics (16S rRNA metagenomics)
+- **Omics studies**
+  - Multi-omics data integration and analysis: genomics (whole-genome sequencing), transcriptomics (RNA-seq), functional genomics (CRISPRi screening), microbiomics (16S rRNA metagenomics)
 
 - **Experimental skills** 
     - High-throughput screening, sequencing library construction, next generation sequencing
@@ -27,6 +28,7 @@ My research interest includes:
 - **Strains**: Expertise with model (<i>Escherichia coli</i>) and non-model (<i>Bacteroides thetaiotaomicron</i>) organisms in aerobic and anaerobic systems 
 
 - **Cell lines**: mammalian cell culture for HT1080 (human fibrosarcoma cells), MDA-MB-231 and HS578T (human breast cancer cell line)
+
 - **Computational skills**: In-house Python and R pipelines for bioinformatics and data visualization
     -	Website: github.com/yellow-min
     -	Variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi screening analysis, bioinformatics analysis and statistics
@@ -34,13 +36,13 @@ My research interest includes:
 
 ## Projects
 - **<i>B. thetaiotaomicron</i> as a therapeutic microbe for long-term colonization in the human gut**
-    -	Optimizing anaerobic culture conditions and media for B. thetaiotaomicron
+    -	Optimizing anaerobic culture conditions and media for <i>B. thetaiotaomicron</i>
     -	Establishing CRISPRi screening pipelines 
     -	Developing in-house Python scripts for high-throughput functional genomics analysis
     -	Providing insights into key metabolic and regulatory pathways essential for microbial fitness
 
 - **Engineering <i>B. thetaiotaomicron</i> for non-native butyrate production** 
-    -	Engineering metabolic pathways in B. thetaiotaomicron to enable heterologous butyrate production and quantifying extracellular metabolites using HPLC
+    -	Engineering metabolic pathways in <i>B. thetaiotaomicron</i> to enable heterologous butyrate production and quantifying extracellular metabolites using HPLC
     -	Applying genome-scale metabolic model analysis to guide rational strain design and validate optimized butyrate-producing strains
 
 - **A minimal genome-based cell factory platform for the development of mRNA vaccines and therapeutics**
@@ -54,7 +56,7 @@ My research interest includes:
     -	Applying machine-learning based independently regulated modules (iModulon) to elucidate key regulators governing ALE
 
 - **Investigation of cancer cell dissemination under mechanical stimulation using 3D spheroid models**
-    -	Creating 3D spheroids from HT1080, MDA-MB-231, and HS578T cell lines to closely mimic the structural complexity of in vivo tumors
+    -	Creating 3D spheroids from HT1080, MDA-MB-231, and HS578T cell lines to closely mimic the structural complexity of <i>in vivo</i> tumors
     -	Embedding spheroids in a collagen–fibronectin matrix containing magnetic beads and applying rotating magnetic forces to induce significant mechanical stress
     -	Demonstrating that mechanical stimulation notably enhances cancer cell invasion across all spatial dimensions (X, Y, and Z) compared to unstimulated controls
 
@@ -163,13 +165,13 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 *Sep. 2017 - Feb. 2025*
 
 - **Scholarship from Woo-Deok Yoon Duk-Byung Foundation**, Republic of Korea \\
-*Nov. 2018*
+*Nov. 30th 2018*
 
 - **Best Poster Presentation Award**, KMB 46th Annual Meeting and International Symposium, Jeju, Republic of Korea   \\
-*Jun. 2019*
+*Jun. 25th 2019*
 
 - **Travel Grant Award**, 2022 KSBB Fall Meeting and International Symposium, Jeju, Republic of Korea   \\
-*Jun. 2019*
+*Sep. 30th 2022*
 
 
 ## Experiences
