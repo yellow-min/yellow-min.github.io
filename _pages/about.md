@@ -28,8 +28,8 @@ My research interest includes:
 
 - **Cell lines**: mammalian cell culture for HT1080 (human fibrosarcoma cells), MDA-MB-231 and HS578T (human breast cancer cell line)
 - **Computational skills**: In-house Python and R pipelines for bioinformatics and data visualization
--	Website: github.com/yellow-min
--	Variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi screening analysis, bioinformatics analysis and statistics
+    -	Website: github.com/yellow-min
+    -	Variant detection in genome, growth curve fitting, pipeline for whole-genome scale of CRISPRi screening analysis, bioinformatics analysis and statistics
 
 
 ## Projects
