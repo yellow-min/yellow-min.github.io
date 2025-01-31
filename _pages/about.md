@@ -66,7 +66,7 @@ My research interest includes:
 - **Ph.D.** in Graduate School of Biological Sciences, <a href="https://bio.kaist.ac.kr/">**Korea Advanced Institute of Science and Technology (KAIST)**</a>\\
 *Sep. 2017 - Feb. 2025*
   
-- **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a> (<i>Summa cum laude</i>)\\
+- **B.S.** in Biotechnology, <a href="https://biotech.pknu.ac.kr/biotech/1">**Pukyong National University (PNU)**</a> (**<i>Summa cum laude</i>**)\\
 *Mar. 2013 - Aug. 2017*
 
 ## Published Papers
@@ -114,7 +114,7 @@ Kangsan Kim, Donghui Choe, Yoseb Song, <u>Minjeong Kang</u>, Seung-Goo Lee, Dae-
 ## Patent
 
 - **부티레이트를 생산하는 박테로이데스 테타이오타오미크론 균주 및 이를 이용한 부티레이트 생산방법** \\
-  조병관, 김강산, 강민정 (2022) 출원번호 10-2022-0071565
+  조병관, 김강산, <u>강민정</u> (2022) 출원번호 10-2022-0071565
 
 
 ## Oral & Poster Presentations
